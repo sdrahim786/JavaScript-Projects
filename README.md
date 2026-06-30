@@ -21,7 +21,9 @@ New project drops whenever I finish one. Watch this space. ⭐
 | # | Project | What it does | Concepts I practiced | Status |
 |---|---------|--------------|----------------------|--------|
 | 01 | [Counter](./Counter) | Increase, decrease, and reset a number | DOM selection, event listeners, state updates | ✅ Done |
-| 02 | [RandomNumGen](./RandomNumGen) | Roll A Dice | Math functions , Random function | Done |
+| 02 | [RandomNumGen](./RandomNumGen) | Roll A Dice | Math functions , Random function | ✅ Done|
+| 03 | [tempConversion](./tempConversion) | Temperature Converter from Celsius to Fahrenheit and Viceversa |  Buttons, Functions  | ✅ Done |
+
 
 ---
 
