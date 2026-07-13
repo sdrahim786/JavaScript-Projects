@@ -25,6 +25,7 @@ New project drops whenever I finish one. Watch this space. ⭐
 | 03 | [TempConversion](./TempConversion) | Temperature Converter from Celsius to Fahrenheit and Viceversa |  Buttons, Functions  | ✅ Done |
 | 04 | [PasswordGenerator](./PasswordGenerator) | Random Password Generator using functionand control statements |  Math, Functions  | ✅ Done |
 | 05 | [ShuffleArray](./ShuffleArray) | Shuffling Array using Fisher-Yates Algorithm |  Math, Functions, Random  | ✅ Done |
+| 06 | [DigitalClock](./DigitalClock) | Live Digital Clock with an Image Background | CSS , Date and Time  | ✅ Done |
 
 
 ---
