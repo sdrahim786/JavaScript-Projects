@@ -1,0 +1,47 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    font-size: 3.5rem;
+    color:black;
+}
+.choices{
+    margin: 30px;
+}
+.choices button {
+    font-size: 4rem;              /* Reduced slightly so it fits inside the circle */
+    width: 160px;                 /* Must match the height for a perfect circle */
+    height: 160px;                /* Must match the width for a perfect circle */
+    margin: 0 10px;
+    border-radius: 50%;           /* 50% automatically makes a square a perfect circle */
+    border: none;                 /* Removes default ugly browser borders */
+    background-color: hsl(200, 100%, 50%);
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+
+    /* These 3 lines perfectly center your emoji or text inside the circle */
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.choices button:hover{
+    background-color: aliceblue;
+}
+#playerDisplay , #computerDisplay{
+    font-size: 2.5rem;
+}
+#resultDisplay{
+    font-size : 5rem;
+    margin:30px 0;
+}
+.greenText{
+    color:greenyellow;
+}
+.redText{
+    color:tomato;
+}
